@@ -1,5 +1,5 @@
 # refactor-like-a-pro
 
-Aprenda a refatorar seu projeto como um profissional
+Lesson from the video below
 
 [Vídeo Aula Disponível](https://youtu.be/3sMHf4xa4hM)
