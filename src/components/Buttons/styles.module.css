@@ -1,0 +1,31 @@
+.buttons {
+  display: flex;
+}
+
+.button-task {
+  padding: 0.25rem 0.5rem;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  border-radius: 5px;
+  height: 40px;
+  transition: filter 0.5s;
+}
+
+.button-task:nth-child(1) {
+  background-color: rgb(223, 43, 43);
+  color: white;
+}
+
+.button-task:nth-child(2) {
+  background-color: rgb(32, 145, 66);
+  color: white;
+}
+
+.button-task + .button-task {
+  margin-left: 1rem;
+}
+
+.button-task:hover {
+  filter: brightness(0.8);
+}

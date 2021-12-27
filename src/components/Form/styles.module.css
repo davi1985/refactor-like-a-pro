@@ -1,0 +1,19 @@
+.task-form {
+  width: 100%;
+  max-width: 500px;
+  margin-top: 40px;
+}
+
+.task-input {
+  width: 100%;
+  padding: 0.8rem;
+  border: none;
+  outline: none;
+  margin-bottom: 1rem;
+  border-bottom: 5px solid #e5e5e5;
+  font-size: 1.5rem;
+  font-weight: 300;
+  border-radius: 0.25rem;
+  -webkit-font-smoothing: antialieased;
+  -moz-osx-font-smoothing: antialieased;
+}
